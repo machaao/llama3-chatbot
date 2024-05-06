@@ -1,4 +1,4 @@
-## A Meta-Llama-3 Chatbot Template for FREE monetization ##
+## A Pay as You Go Meta-Llama-3 AI Chatbot Template ##
 Use this template to rapidly build and monetize a [Meta Llama 3](https://huggingface.co/meta-llama) AI chatbot and start earning with your Custom AI Chatbot
 
 ## Requirements for running it locally on laptop ##
