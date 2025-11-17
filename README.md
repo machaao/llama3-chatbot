@@ -9,8 +9,8 @@ Use this template to rapidly build and monetize a [Meta Llama 3](https://hugging
 * Replicate API token - Get one [here](https://replicate.com/meta/meta-llama-3-8b-instruct/api)
 * MessengerX API Token - Follow the instructions below to get your token
 
-## Get MessengerX.io API Key ##
-* Available on the [MessengerX.io](https://portal.messengerx.io/index#!/dashboard) portal
+## Get buildgpt.ai API Key ##
+* Available on the [buildgpt.ai](https://portal.buildgpt.ai/index#!/dashboard) portal
 * If you aren't registered, please create an account and login
 * Set up your new bot by providing it a `Character Name` and `Description`. 
   * Select `Custom Bot` option
@@ -129,13 +129,13 @@ heroku logs --tail
 ```
 
 ### Update your webhook ###
-Update your bot Webhook URL at [MessengerX.io Portal](https://portal.messengerx.io) with the heroku app url
+Update your bot Webhook URL at [buildgpt.ai Portal](https://portal.buildgpt.ai) with the heroku app url
 ```
 Webhook Url: <YOUR-HEROKU-APP-URL>/machaao/hook
 ```
 
 ### Test your bot:
-Visit: ```https://messengerx.io/<your-character-name>```
+Visit: ```https://buildgpt.ai/<your-character-name>```
 
 ## Notes / Additional Resources ##
 * Please note that this document isn't meant to be used as a guide for production environment setup.
